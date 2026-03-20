@@ -1,6 +1,6 @@
 <!-- MAIN NAME ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=40&duration=2000&pause=1200&color=00E5FF&center=true&vCenter=true&width=1150&lines=ANKAMGARI +SHESHANK;AI+ENGINEER+IN+PROGRESS;PYTHON+%7C+MACHINE+LEARNING;BUILDING+MEDAI+PROJECT;FUTURE+SOFTWARE+ENGINEER" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=40&duration=2000&pause=1200&color=00E5FF&center=true&vCenter=true&width=1150&lines=ANKAMGARI+SHESHANK;AI+ENGINEER+IN+PROGRESS;PYTHON+%7C+MACHINE+LEARNING;BUILDING+MEDAI+PROJECT;FUTURE+SOFTWARE+ENGINEER" />
 </p>
 
 # 🚀 About Me
