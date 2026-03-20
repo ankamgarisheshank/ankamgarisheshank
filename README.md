@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ankam Garisheshank</h1>
+<h1 align="center">Hey 👋, I'm ANKAMGARI SHESHANK</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Engineer+in+Progress;Full+Stack+Developer;Python+%7C+Machine+Learning;DSA+Learner;Building+MedAI+Project" />
