@@ -105,10 +105,10 @@
 # 🌐 Connect  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/ankamgari-sheshank/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ankamgarisheshank">
     <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
   </a>
 </p>
