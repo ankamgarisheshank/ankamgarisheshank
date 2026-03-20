@@ -6,7 +6,7 @@
 # 🚀 About Me
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3500&pause=1500&color=BEBEBE&width=700&lines=B.Tech+AI+Student+focused+on+real-world+solutions.;Learning+Data+Structures+%26+Algorithms+daily.;Building+MedAI+for+AI-based+medical+diagnosis.;Passionate+about+AI%2C+ML+and+Full+Stack+Development.;Goal+is+to+crack+top+tech+companies." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3500&pause=1500&color=BEBEBE&width=700&lines=B.Tech+AI+Student+focused+on+real-world+solutions.;Learning+Data+Structures+%26+Algorithms+daily.;Building+PostcareAI+for+AI-based+medical+diagnosis.;Passionate+about+AI%2C+ML+and+Full+Stack+Development.;Goal+is+to+crack+top+tech+companies." />
 </p>
 
 ---
